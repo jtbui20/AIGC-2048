@@ -1,6 +1,9 @@
 # Documentation
 This will mainly go through what is available to you.
 
+## Examples
+There is an example of how you can control the game through the interfaces in [example_user_input.py](example_user_input.py)
+
 ## Structures
 ### Position
 `game_2048/Grid.py`
